@@ -1,0 +1,21 @@
+Order ID,Product Name,Model,Quantity,Order Date,Ship Date,Delivery Date,Origin Location,Destination Location,City,Shipping Status,Customer Name,Customer Contact,Carrier,Shipping Cost,Tracking Number
+1001,iPhone,iPhone 15,20,2024-11-01,2024-11-02,2024-11-04,"Cupertino, CA","New York, NY",New York,In Transit,XYZ Retail,123-456-7890,FedEx,200,FX123456789
+1002,MacBook,MacBook Air,15,2024-11-01,2024-11-02,2024-11-05,"Cupertino, CA","Chicago, IL",Chicago,Delivered,ABC Corp,987-654-3210,UPS,150,UPS987654321
+1003,iPad,iPad Pro,10,2024-11-02,2024-11-03,2024-11-06,"Cupertino, CA","Miami, FL",Miami,Shipped,DEF Wholesale,555-111-2222,DHL,180,DHL555111222
+1004,Apple Watch,Series 9,30,2024-11-02,2024-11-03,2024-11-06,"Cupertino, CA","Los Angeles, CA",Los Angeles,Preparing,GHI Distributors,444-333-2222,FedEx,160,FX444333222
+1005,iPhone,iPhone SE,25,2024-11-03,2024-11-04,2024-11-07,"Cupertino, CA","Houston, TX",Houston,In Transit,JKL Electronics,666-555-4444,UPS,210,UPS666555444
+1006,MacBook,MacBook Pro,12,2024-11-03,2024-11-04,2024-11-08,"Cupertino, CA","Boston, MA",Boston,In Transit,MNO Retailers,333-222-1111,DHL,200,DHL333222111
+1007,iPad,iPad Mini,8,2024-11-03,2024-11-04,2024-11-07,"Cupertino, CA","Philadelphia, PA",Philadelphia,Delivered,PQR Group,888-777-6666,FedEx,180,FX888777666
+1008,iMac,iMac 24-inch,5,2024-11-04,2024-11-05,2024-11-09,"Cupertino, CA","San Francisco, CA",San Francisco,In Transit,STU Enterprises,222-111-3333,UPS,250,UPS222111333
+1009,iPhone,iPhone 15 Pro,18,2024-11-04,2024-11-05,2024-11-10,"Cupertino, CA","Dallas, TX",Dallas,Shipped,VWX Inc.,999-888-7777,DHL,220,DHL999888777
+1010,Apple Watch,SE,20,2024-11-04,2024-11-05,2024-11-09,"Cupertino, CA","Seattle, WA",Seattle,Preparing,YZA Trading,111-333-5555,FedEx,190,FX111333555
+1011,iPhone,iPhone 14,15,2024-11-05,2024-11-06,2024-11-10,"Cupertino, CA","Austin, TX",Austin,In Transit,BCD Mobile,444-555-6666,UPS,180,UPS444555666
+1012,iPad,iPad Air,22,2024-11-05,2024-11-06,2024-11-11,"Cupertino, CA","Denver, CO",Denver,Delivered,EFG Electronics,777-888-9999,DHL,200,DHL777888999
+1013,MacBook,MacBook Pro,18,2024-11-06,2024-11-07,2024-11-12,"Cupertino, CA","San Diego, CA",San Diego,Shipped,HIJ Corp,123-123-1234,FedEx,210,FX123123123
+1014,iMac,iMac Pro,6,2024-11-06,2024-11-07,2024-11-13,"Cupertino, CA","Las Vegas, NV",Las Vegas,In Transit,KLM Solutions,555-444-3333,UPS,230,UPS555444333
+1015,iPhone,iPhone 15,25,2024-11-06,2024-11-07,2024-11-12,"Cupertino, CA","Atlanta, GA",Atlanta,Delivered,NOP Distribution,222-999-8888,DHL,210,DHL222999888
+1016,Apple Watch,Series 8,17,2024-11-07,2024-11-08,2024-11-13,"Cupertino, CA","Phoenix, AZ",Phoenix,Preparing,QRS Wholesale,333-444-5555,FedEx,180,FX333444555
+1017,iPad,iPad 10th Gen,11,2024-11-07,2024-11-08,2024-11-14,"Cupertino, CA","Orlando, FL",Orlando,In Transit,TUV Stores,666-777-8888,UPS,200,UPS666777888
+1018,iMac,iMac 27-inch,4,2024-11-08,2024-11-09,2024-11-15,"Cupertino, CA","Charlotte, NC",Charlotte,Shipped,WXY Distribution,999-666-5555,DHL,250,DHL999666555
+1019,iPhone,iPhone 15 Pro,30,2024-11-08,2024-11-09,2024-11-14,"Cupertino, CA","Portland, OR",Portland,In Transit,ABC Retail,444-333-2222,FedEx,220,FX444333222
+1020,MacBook,MacBook Air,20,2024-11-08,2024-11-09,2024-11-15,"Cupertino, CA","Columbus, OH",Columbus,Preparing,DEF Traders,111-222-3333,UPS,190,UPS111222333
